@@ -8,3 +8,4 @@ These materials are helpful for DIY Geiger Counter Kit Nuclear Radiation Detecto
 
 
 ![image](https://github.com/2969773606/GeigerCounter-V1.1/blob/master/OtherMeterials/gmv1.1-1000.jpg)
+![Geiger Counter Kits V1 1-Parts List-cajoe ](https://github.com/2969773606/GeigerCounter-V1.1/assets/30722223/6c446dc4-b832-4b5d-8d69-7e8244ea2bcf)
